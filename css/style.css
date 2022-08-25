@@ -1,0 +1,31 @@
+.seccion1{
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    align-content: center;
+}
+
+.paginaContacto{
+    background-color: violet;
+    margin: 30px;
+    padding: 30px;
+}
+
+.seccionProductos{
+    display: inline-flex;
+    flex-direction: row;
+    padding: 50px;
+    margin: 50px;
+}
+
+.fondoNoticias{
+
+background-color: black;
+padding: 20px;
+margin: 20px;
+}
+
+.fondoAcordeon{
+    background-color: black;
+    color: aquamarine;
+}
